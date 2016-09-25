@@ -1,0 +1,17 @@
+{
+	"Greetings": [
+		{ "phrase" : "Hello, {name}!" },
+		{ "phrase" : "Good morning, {name}!" },
+		{ "phrase" : "My name is Figo." }
+	],
+	"General": [
+		{ "phrase" : "Yes." },
+		{ "phrase" : "Of course." },
+		{ "phrase" : "Absolutely." },
+		{ "phrase" : "Glad to help." },
+		{ "phrase" : "No, I'm sorry." },
+		{ "phrase" : "I'm very sorry, I don't understand." },
+		{ "phrase" : "Yes, I have taken care of it." },
+		{ "phrase" : "No, I'm sorry, I don't know how to do that." }
+	]
+}
