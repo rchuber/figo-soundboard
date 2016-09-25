@@ -50,7 +50,7 @@
 					<input class="form-control input-lg" type="text" placeholder="Custom Text" id="customText" />
 				</div>
 				<div class="col-sm-2">
-					<button class="btn btn-lg btn-inverse btn-block" id="speakCustomText">Speak 🔊</button>
+					<button class="btn btn-lg btn-default btn-block" id="speakCustomText">Speak 🔊</button>
 				</div>
 			</div>
 		</div>
