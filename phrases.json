@@ -1,10 +1,8 @@
 {
-	"Greetings": [
+	"General": [
 		{ "phrase" : "Hello {name}!" },
 		{ "phrase" : "Good morning {name}!" },
-		{ "phrase" : "My name is Figo." }
-	],
-	"General": [
+		{ "phrase" : "My name is Figo." },
 		{ "phrase" : "Yes." },
 		{ "phrase" : "Of course." },
 		{ "phrase" : "Absolutely." },
@@ -13,10 +11,37 @@
 		{ "phrase" : "I'm very sorry, I don't understand." },
 		{ "phrase" : "Yes, I have taken care of it." },
 		{ "phrase" : "Pardon me?" },
-		{ "phrase" : "No, I'm sorry, I don't know how to do that." }
+		{ "phrase" : "No I'm sorry, I don't know how to do that." }
 	],
-	"Weather": [
-		{ "phrase" : "The temperature is currently 23 degrees." },
-		{ "phrase" : "It will be sunny all day in Funchal." }
+	"Onboarding" : [
+		{ "phrase" : "Hello {name}, we are glad that you are here!" },
+		{ "phrase" : "My name is Figo. I will be your personal digital assistant during your stay here. You can ask me anything and I will try to get it done for you." },
+		{ "phrase" : "If you want to communicate with me, just cue me by saying my name Figo" },
+		{ "phrase" : "You can ask me things from making dinner, spa, event reservations to the small things like giving you a wake up call in the morning." },
+		{ "phrase" : "Why don't you give it a try. Ask me what fun things are going on at the hotel tomorrow." },
+		{ "phrase" : "Glad you asked. If you are interested in dancing,there is a salsa dancing event tomorrow in the main lounge. If you would rather relax, The Jonas Brothers will be playing tomorrow by the Pool." },
+		{ "phrase" : "See! That was easy. I am a voice activated system so I can hear your request from anywhere in the room." },
+		{ "phrase" : "Of course, if you would rather speak to a staff and not me, I can make that happen as well. Just say 'I prefer to speak to a staff during my stay' and I will turn myself off. Otherwise, I will be more than happy to assist you." },
+		{ "phrase" : "Whatever you decide, I will always be here whenever you need me." },
+		{ "phrase" : "This concludes the setup phase. Thanks for setting me up and it was really nice talking to you." }
+	],
+	"Dinner Reservation" : [
+		{ "phrase" : "What time would you like to eat?" },
+		{ "phrase" : "I'm sorry, there are no tables available there this evening." },
+		{ "phrase" : "I can make a reservation for you at that time at either Med or Il Basilico. Which restaurant would you prefer?" },
+		{ "phrase" : "Sure! I’ve made a reservation" },
+		{ "phrase" : "I’ve reserved a table for you" },
+		{ "phrase" : "at Il Basilico" },
+		{ "phrase" : "at Med" }
+	],
+	"Set alarm" : [
+		{ "phrase" : "Certainly! I will wake you up at that time." }
+	],
+	"Feedback" : [
+		{ "phrase" : "How was your dinner?" },
+		{ "phrase" : "That’s awesome! Glad you enjoyed the experience. I will pass your compliments on to the staff." },
+		{ "phrase" : "Oh no! So sorry to hear that your experience was not what expected. I’ll make sure that the staff gets your feedback so they can make adjustments." },
+		{ "phrase" : "May I have a staff member contact you to talk about this?" },
+		{ "phrase" : "I’ll have someone call your room in the next few minutes." }
 	]
 }

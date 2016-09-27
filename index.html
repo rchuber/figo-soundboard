@@ -24,6 +24,18 @@
 	header h3 {
 		margin: 30px 0;
 	}
+	.list-group {
+		margin-bottom: 2em;
+	}
+	.list-group-item:before {
+		content: ' 🔊 ';
+		display: inline-block;
+		width: 2em;
+		float: left;
+		margin-left: 0em;
+	}
+	h4 {
+	}
 	</style>
 
 
@@ -75,12 +87,12 @@
 				var categories = [];
 				$.each( data, function( key, val ) {
 					// Create a button for each phrase grouped by category
-					html += '<div class="panel panel-default"><div class="panel-heading"><h3 class="panel-title">' + key + '</h3></div><div class="panel-body">';
+					html += '<h4>'+key+'</h4><div class="list-group">';
 					$.each( val, function( phrasekey, phrase ) {
-						html += '<button type="button" class="speakable btn btn-lg btn-default" data-original="'+ escape(phrase.phrase) +'">' + phrase.phrase + '</button>';
+						html += '<a href="javascript:return false;" class="list-group-item speakable" data-original="'+ escape(phrase.phrase) +'">' + phrase.phrase + '</a>';
 					});
 					html += '';
-					html += '</div></div>';
+					html += '</div>';
 
 				});
 				// Add all of the phrase buttons to the document
