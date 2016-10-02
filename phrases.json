@@ -26,7 +26,11 @@
 		{ "phrase" : "This concludes the setup phase. Thanks for setting me up and it was really nice talking to you." }
 	],
 	"Pool" : [
-		{ "phrase" : "The pool is open every day between 8 am to 9 pm" }
+		{ "phrase" : "The pool is open today starting at 8 am to 9 pm" }, 
+		{ "phrase" : "Sorry! The pool is currently closed. It will reopen tomorrow at 8 am." }, 
+		{ "phrase" : "The pool is open right now. It will be closed in about 3 hours" }
+
+
 		
 	],
 	"Dinner Reservation" : [
