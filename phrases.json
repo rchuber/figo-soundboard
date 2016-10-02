@@ -36,13 +36,13 @@
 	"Transfer" : [
 		{ "phrase" : "I've booked a taxi to pick you up tomorrow at 6:30 am to take you to the airport" },
 		{ "phrase" : "Hello {name}, the taxi is outside waiting for you. " }, 
- 		{ "phrase" : "The taxi is 5 mintues from the hotel" }, 
+ 		{ "phrase" : "The taxi is 5 minutes from the hotel" }, 
 		{ "phrase" : "Sure! I will tell the taxi driver you are on your way" }		
 	],
 	"Dinner Reservation" : [
 		{ "phrase" : "What time would you like to eat?" },
 		{ "phrase" : "Let me look to see what I can find neary by." },
-		{ "phrase" : "Both Med and Il Basilico have open tables tonight. Which restaurant would you prefer?? " },
+		{ "phrase" : "Both Med and Il Basilico have open tables tonight. Which restaurant would you prefer? " },
 		{ "phrase" : "I'm sorry, there are no tables available there this evening." },
 		{ "phrase" : "I can make a reservation for you at that time at either Med or Il Basilico. Which restaurant would you prefer?" },
 		{ "phrase" : "Sure! I’ve made a reservation" },
