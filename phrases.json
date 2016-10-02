@@ -19,11 +19,15 @@
 		{ "phrase" : "If you want to communicate with me, just cue me by saying my name Figo" },
 		{ "phrase" : "You can ask me things from making dinner, spa, event reservations to the small things like giving you a wake up call in the morning." },
 		{ "phrase" : "Why don't you give it a try. Ask me what fun things are going on at the hotel tomorrow." },
-		{ "phrase" : "Glad you asked. If you are interested in dancing,there is a salsa dancing event tomorrow in the main lounge. If you would rather relax, The Jonas Brothers will be playing tomorrow by the Pool." },
+		{ "phrase" : "Glad you asked. If you're interested in dancing,there is a salsa dancing event tomorrow in the main lounge. If you would rather relax, The Jonas Brothers will be playing tomorrow by the Pool." },
 		{ "phrase" : "See! That was easy. I am a voice activated system so I can hear your request from anywhere in the room." },
 		{ "phrase" : "Of course, if you would rather speak to a staff and not me, I can make that happen as well. Just say 'I prefer to speak to a staff during my stay' and I will turn myself off. Otherwise, I will be more than happy to assist you." },
 		{ "phrase" : "Whatever you decide, I will always be here whenever you need me." },
 		{ "phrase" : "This concludes the setup phase. Thanks for setting me up and it was really nice talking to you." }
+	],
+	"Pool" : [
+		{ "phrase" : "The pool is open every day between 8 am to 9 pm" }
+		
 	],
 	"Dinner Reservation" : [
 		{ "phrase" : "What time would you like to eat?" },
