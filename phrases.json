@@ -41,6 +41,8 @@
 	],
 	"Dinner Reservation" : [
 		{ "phrase" : "What time would you like to eat?" },
+		{ "phrase" : "Of course! What time would you like to eat?" },
+		{ "phrase" : "There is a table for 2 available at MED at that time. Shall I reserve it? " },
 		{ "phrase" : "Let me look to see what I can find neary by." },
 		{ "phrase" : "Both Med and Il Basilico have open tables tonight. Which restaurant would you prefer? " },
 		{ "phrase" : "I'm sorry, there are no tables available there this evening." },
