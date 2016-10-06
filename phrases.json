@@ -29,7 +29,7 @@
 		{ "phrase" : "Check-out is at noon." }	
 	],
 	"Pool" : [
-		{ "phrase" : "The pool is open today from at 8 am to 9 pm." }, 
+		{ "phrase" : "The pool is open today from 8 am to 9 pm." }, 
 		{ "phrase" : "Sorry! The pool is currently closed. It will reopen tomorrow at 8am." }, 
 		{ "phrase" : "The pool is open right now. It will be closed in about 3 hours" }		
 	],
