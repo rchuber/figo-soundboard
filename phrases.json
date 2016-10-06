@@ -26,7 +26,7 @@
 		{ "phrase" : "This concludes the setup phase. Thanks for setting me up and it was really nice talking to you." }
 	],
 	"Check-out" : [
-		{ "phrase" : "Check-out is at noon." }, 	
+		{ "phrase" : "Check-out is at noon." }	
 	],
 	"Pool" : [
 		{ "phrase" : "The pool is open today from at 8 am to 9 pm." }, 
@@ -57,10 +57,10 @@
  		{ "phrase" : "By the way, how was your dinner this evening?" }, 
  		{ "phrase" : "Great! I'll pass your feedback along" }, 
  		{ "phrase" : "Oh no, we are very sorry." }, 
- 		{ "phrase" : "I will make sure the restaurant knows. In the meantime, please enjoy that milkshake compliments of the house." }, 
+ 		{ "phrase" : "I will make sure the restaurant knows. In the meantime, please enjoy that milkshake compliments of the house." }
 	],
 	"Transfer" : [
-		{ "phrase" : "Yes, absolutely. When would like to leave?" },
+		{ "phrase" : "Yes, absolutely. When would you like to leave?" },
 		{ "phrase" : "A taxi has been reserved and will arrive to pick you up at that time." },
 		{ "phrase" : "Hello {name}, the taxi is outside waiting for you. " }, 
  		{ "phrase" : "The taxi is 5 minutes from the hotel" }, 
