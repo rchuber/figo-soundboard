@@ -1,5 +1,7 @@
 {
 	"General": [
+		{ "phrase" : "One second, let me check." },
+		{ "phrase" : "Just a moment." },
 		{ "phrase" : "Hello {name}!" },
 		{ "phrase" : "Good morning {name}!" },
 		{ "phrase" : "My name is Eva." },
@@ -61,7 +63,11 @@
 	],
 	"Transfer" : [
 		{ "phrase" : "Yes, absolutely. When would you like to leave?" },
-		{ "phrase" : "A taxi has been reserved and will arrive to pick you up at that time." },
+		{ "phrase" : "One moment please." },
+		{ "phrase" : "A taxi has been reserved and will arrive to pick you up at that morning" },
+		{ "phrase" : "A taxi has been reserved and will arrive to pick you up at that afternoon" },
+		{ "phrase" : "A taxi has been reserved and will arrive to pick you up at that evening" },
+		{ "phrase" : "A taxi has been reserved and will arrive to pick you up..." },
 		{ "phrase" : "Hello {name}, the taxi is outside waiting for you. " }, 
  		{ "phrase" : "The taxi is 5 minutes from the hotel" }, 
 		{ "phrase" : "Sure! I will tell the taxi driver you are on your way" }		
