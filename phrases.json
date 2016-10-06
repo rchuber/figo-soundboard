@@ -2,7 +2,7 @@
 	"General": [
 		{ "phrase" : "Hello {name}!" },
 		{ "phrase" : "Good morning {name}!" },
-		{ "phrase" : "My name is Figo." },
+		{ "phrase" : "My name is Eva." },
 		{ "phrase" : "Yes." },
 		{ "phrase" : "Of course." },
 		{ "phrase" : "Absolutely." },
@@ -15,42 +15,56 @@
 	],
 	"Onboarding" : [
 		{ "phrase" : "Hello {name}, we are glad that you are here!" },
-		{ "phrase" : "My name is Figo. I will be your personal digital assistant during your stay here. You can ask me anything and I will try to get it done for you." },
-		{ "phrase" : "If you want to communicate with me, just cue me by saying my name Figo" },
-		{ "phrase" : "You can ask me things from making dinner, spa, event reservations to the small things like giving you a wake up call in the morning." },
+		{ "phrase" : "My name is Eva. I will be your personal digital assistant during your stay here. You can ask me anything and I will try to get it done for you." },
+		{ "phrase" : "If you want to communicate with me, just cue me by saying my name Eva" },
+		{ "phrase" : "I can do things may things, from making reservations at restaurants or the spa to small things like giving you a wake up call in the morning." },
 		{ "phrase" : "Why don't you give it a try. Ask me what fun things are going on at the hotel tomorrow." },
-		{ "phrase" : "Glad you asked. If you're interested in dancing,there is a salsa dancing event tomorrow in the main lounge. If you would rather relax, The Jonas Brothers will be playing tomorrow by the Pool." },
+		{ "phrase" : "Glad you asked. If you are interested in dancing,there is a salsa dancing event in the main lounge. If you would rather relax, there is a chocolate tasting by the Pool this afternoon." },
 		{ "phrase" : "See! That was easy. I am a voice activated system so I can hear your request from anywhere in the room." },
 		{ "phrase" : "Of course, if you would rather speak to a staff and not me, I can make that happen as well. Just say 'I prefer to speak to a staff during my stay' and I will turn myself off. Otherwise, I will be more than happy to assist you." },
 		{ "phrase" : "Whatever you decide, I will always be here whenever you need me." },
 		{ "phrase" : "This concludes the setup phase. Thanks for setting me up and it was really nice talking to you." }
 	],
-	"Pool" : [
-		{ "phrase" : "The pool is open today starting at 8 am to 9 pm" }, 
-		{ "phrase" : "Sorry! The pool is currently closed. It will reopen tomorrow at 8 am." }, 
-		{ "phrase" : "The pool is open right now. It will be closed in about 3 hours" }
-
-
-		
+	"Check-out" : [
+		{ "phrase" : "Check-out is at noon." }, 	
 	],
-	"Transfer" : [
-		{ "phrase" : "I've booked a taxi to pick you up tomorrow at 6:30 am to take you to the airport" },
-		{ "phrase" : "Hello {name}, the taxi is outside waiting for you. " }, 
- 		{ "phrase" : "The taxi is 5 minutes from the hotel" }, 
-		{ "phrase" : "Sure! I will tell the taxi driver you are on your way" }		
+	"Pool" : [
+		{ "phrase" : "The pool is open today from at 8 am to 9 pm." }, 
+		{ "phrase" : "Sorry! The pool is currently closed. It will reopen tomorrow at 8am." }, 
+		{ "phrase" : "The pool is open right now. It will be closed in about 3 hours" }		
 	],
 	"Dinner Reservation" : [
-		{ "phrase" : "What time would you like to eat?" },
-		{ "phrase" : "Of course! What time would you like to eat?" },
-		{ "phrase" : "There is a table for 2 available at MED at that time. Shall I reserve it? " },
-		{ "phrase" : "Let me look to see what I can find neary by." },
+		{ "phrase" : "Certainly!" },
+		{ "phrase" : "When would you like to eat?" },
 		{ "phrase" : "Both Med and Il Basilico have open tables tonight. Which restaurant would you prefer? " },
-		{ "phrase" : "I'm sorry, there are no tables available there this evening." },
 		{ "phrase" : "I can make a reservation for you at that time at either Med or Il Basilico. Which restaurant would you prefer?" },
+		{ "phrase" : "There is a table for 2 available at MED at that time. Shall I reserve it? " },
+		{ "phrase" : "Let me look to see what I can find near by." },
+		{ "phrase" : "I'm sorry, there are no tables available there this evening." },
 		{ "phrase" : "Sure! I’ve made a reservation" },
 		{ "phrase" : "I’ve reserved a table for you" },
 		{ "phrase" : "at Il Basilico" },
 		{ "phrase" : "at Med" }
+	],
+	"Room Service" : [
+		{ "phrase" : "Hi! Welcome back from dinner. What would you like?" },
+		{ "phrase" : "Sure! What would you like?" },
+		{ "phrase" : "Are you interested in a meal or a snack?" },
+		{ "phrase" : "No problem. Would you like anything else?" }, 
+		{ "phrase" : "Ok, I've got it." }, 
+		{ "phrase" : "Will that be all?" }, 
+ 		{ "phrase" : "Your order is on its way!" }, 
+ 		{ "phrase" : "By the way, how was your dinner this evening?" }, 
+ 		{ "phrase" : "Great! I'll pass your feedback along" }, 
+ 		{ "phrase" : "Oh no, we are very sorry." }, 
+ 		{ "phrase" : "I will make sure the restaurant knows. In the meantime, please enjoy that milkshake compliments of the house." }, 
+	],
+	"Transfer" : [
+		{ "phrase" : "Yes, absolutely. When would like to leave?" },
+		{ "phrase" : "A taxi has been reserved and will arrive to pick you up at that time." },
+		{ "phrase" : "Hello {name}, the taxi is outside waiting for you. " }, 
+ 		{ "phrase" : "The taxi is 5 minutes from the hotel" }, 
+		{ "phrase" : "Sure! I will tell the taxi driver you are on your way" }		
 	],
 	"Set alarm" : [
 		{ "phrase" : "Certainly! I will wake you up at that time." }
