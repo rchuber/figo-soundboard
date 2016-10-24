@@ -49,10 +49,12 @@
 		{ "phrase" : "Ok, which restaurant?" },
 		{ "phrase" : "What time would you like to eat?" },
 		{ "phrase" : "There don't appear to be any tables available around that time. I can make a reservation for you for tomorrow if you like, or help you find a different restaurant." },
-		{ "phrase" : "There’s a similar restaurant very close that gets good reviews and has an open table, would you like me to reserve it?" },
-		{ "phrase" : "Yes, of course, what kind of food do you like to eat?"},
+		{ "phrase" : "Here are three restaurants that are nearby and get good reviews. Cultoora do hahmburgur, cohmeh prima restaurant, and Ghandi palace. " },
+		{ "phrase" : "All three have tables available at that time."},
+		{ "phrase" : "Do any of them sound good?"},
+		{ "phrase" : "No problem, what kind of food would you like to eat?"},
 		{ "phrase" : "There is a restaurant called “The Palace” that I think you would really like just a 2 minute walk from the hotel, and they have an open table. Would you like me to reserve it?" },
-		{ "phrase" : "I’ve made that reservation, and I’ve sent you a link to directions." }
+		{ "phrase" : "I’ve made that reservation, and I’ve sent you a link to the directions." }
 	],
 	"Room Service" : [
 		{ "phrase" : "Hello, welcome back from dinner. What would you like?" },
