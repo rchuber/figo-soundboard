@@ -29,10 +29,21 @@
 		{ "phrase" : "Whatever you decide, I will always be here whenever you need me." },
 		{ "phrase" : "This concludes the setup phase. Thanks for setting me up and it was really nice talking to you." }
 	],
-	"Hair salon" : [
+	"!! Hair salon" : [
 		{ "phrase" : "Good afternoon {name}! The nearest hair salon is two blocks from the hotel. Here is a map, and I've sent the directions to your phone. Would you like me to have the front desk book an appointment for you?"},
 		{ "phrase" : "We actually have that available here. Would you like me to have someone send it to your room?" },
 		{ "phrase" : "Happy to be of service." }
+	],
+	"!! Room Service" : [
+		{ "phrase" : "Hello, welcome back from dinner. What would you like?" },
+		{ "phrase" : "Of course. What would you like?" },
+		{ "phrase" : "Yes, absolutely, here is our dessert menu." },
+		{ "phrase" : "Ok, I've got it. Would you like anything else?" }, 
+		{ "phrase" : "Will that be all?" }, 
+ 		{ "phrase" : "Ok, I’ve placed your order. It should arrive within the next 10 minutes. Oh, by the way, how was your dinner earlier this evening?" }, 
+ 		{ "phrase" : "Ok great, I’m glad you enjoyed it." }, 
+ 		{ "phrase" : "Oh no, we are very sorry." }, 
+ 		{ "phrase" : "Oh I’m so sorry, I’ll keep that in mind when I make recommendations in the future." }
 	],
 	"Pharmacy" : [
 		{ "phrase" : "The nearest pharmacy is two blocks from the hotel. Just walk out of the hotel, turn right, and go 200 meters. I've sent the directions to your phone. There is also a larger pharmacy another 200 meters farther down. Additionally, we carry some medications at the front desk. Are you looking for anything in particular?"},
@@ -61,17 +72,7 @@
 		{ "phrase" : "There is a restaurant called “The Palace” that I think you would really like just a 2 minute walk from the hotel, and they have an open table. Would you like me to reserve it?" },
 		{ "phrase" : "I’ve made that reservation, and I’ve sent you a link to the directions." }
 	],
-	"Room Service" : [
-		{ "phrase" : "Hello, welcome back from dinner. What would you like?" },
-		{ "phrase" : "Of course. What would you like?" },
-		{ "phrase" : "Yes, absolutely, here is our dessert menu." },
-		{ "phrase" : "Ok, I've got it. Would you like anything else?" }, 
-		{ "phrase" : "Will that be all?" }, 
- 		{ "phrase" : "Ok, I’ve placed your order. It should arrive within the next 10 minutes. Oh, by the way, how was your dinner earlier this evening?" }, 
- 		{ "phrase" : "Ok great, I’m glad you enjoyed it." }, 
- 		{ "phrase" : "Oh no, we are very sorry." }, 
- 		{ "phrase" : "Oh I’m so sorry, I’ll keep that in mind when I make recommendations in the future." }
-	],
+
 	"Transfer" : [
 		{ "phrase" : "Yes, absolutely. When would you like to leave?" },
 		{ "phrase" : "One moment please." },
