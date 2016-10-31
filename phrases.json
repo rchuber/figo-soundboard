@@ -29,6 +29,11 @@
 		{ "phrase" : "Whatever you decide, I will always be here whenever you need me." },
 		{ "phrase" : "This concludes the setup phase. Thanks for setting me up and it was really nice talking to you." }
 	],
+	"Hair salon" : [
+		{ "phrase" : "Good afternoon {name}! The nearest hair salon is two blocks from the hotel. Here is a map, and I've sent the directions to your phone. Would you like me to have the front desk book an appointment for you?"},
+		{ "phrase" : "We actually have that available here. Would you like me to have someone send it to your room?" },
+		{ "phrase" : "Happy to be of service." }
+	],
 	"Pharmacy" : [
 		{ "phrase" : "The nearest pharmacy is two blocks from the hotel. Just walk out of the hotel, turn right, and go 200 meters. I've sent the directions to your phone. There is also a larger pharmacy another 200 meters farther down. Additionally, we carry some medications at the front desk. Are you looking for anything in particular?"},
 		{ "phrase" : "We actually have that available here. Would you like me to have someone send it to your room?" },
